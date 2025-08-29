@@ -116,3 +116,28 @@ Below is the Use Case Diagram for the booking system:
 
 ![Use Case Diagram for Booking System](alx-booking-uc.png)
 
+
+
+## Acceptance Criteria
+
+**Definition & Importance:**  
+Acceptance Criteria are a set of predefined conditions that a software feature must satisfy to be considered complete and acceptable by stakeholders. They help ensure that the developed system meets the user’s requirements, reduces ambiguity, and provides a clear basis for testing and validation.
+
+**Example – Checkout Feature (Booking Management System):**  
+
+- **Functional Requirements:**  
+  - Users can select a payment method (Credit Card, PayPal, Mobile Money).  
+  - System verifies payment information and confirms successful transactions.  
+  - A booking confirmation receipt is generated and sent via email or displayed on the screen.  
+  - Total amount reflects taxes, fees, and discounts applied.
+
+- **Non-functional Requirements:**  
+  - Payment processing should complete within 5 seconds under normal load.  
+  - The system must handle user payment data securely according to PCI DSS standards.  
+  - Checkout page must be responsive on mobile and desktop devices.
+
+- **Testable Conditions:**  
+  - Verify each payment method processes correctly.  
+  - Confirm successful payments trigger a confirmation receipt.  
+  - Ensure incorrect payment details return an appropriate error message.  
+  - Check page loads correctly across devices and screen sizes.
