@@ -37,3 +37,24 @@ Requirement Analysis plays a crucial role in the success of any software project
 
 3. **Saves Time and Costs:**  
    Identifying requirements upfront helps avoid unnecessary rework, reduces errors, and ensures efficient use of resources throughout the project lifecycle.
+
+
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities to ensure that software development meets user needs effectively:
+
+- **Requirement Gathering:**  
+  Collect information from stakeholders, users, and other sources to understand the needs and expectations for the software project.
+
+- **Requirement Elicitation:**  
+  Engage with stakeholders through interviews, surveys, and workshops to extract detailed requirements, clarifying any ambiguous or conflicting information.
+
+- **Requirement Documentation:**  
+  Record the gathered and elicited requirements in a clear, organized format (e.g., SRS – Software Requirements Specification) to serve as a reference for development.
+
+- **Requirement Analysis and Modeling:**  
+  Examine and structure requirements using models, diagrams, and workflows to identify dependencies, feasibility, and potential challenges.
+
+- **Requirement Validation:**  
+  Ensure the documented requirements are complete, consistent, and achievable by reviewing them with stakeholders and obtaining formal approval.
